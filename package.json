@@ -9,7 +9,7 @@
   "homepage": "index.html",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JoshuamURD/blog-site.git"
+    "url": "https://github.com/primary-github/shd-exp.git"
   },
   "scripts": {
     "docs": "npx quartz build --serve -d docs",

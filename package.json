@@ -22,12 +22,10 @@
     "node": ">=18.14"
   },
   "keywords": [
-    "site generator",
+    "second brain",
     "ssg",
     "digital-garden",
     "markdown",
-    "blog",
-    "quartz"
   ],
   "bin": {
     "quartz": "./quartz/bootstrap-cli.mjs"

@@ -10,7 +10,7 @@ tags: [index]
 # Taxonomy and structure notes
 - We will aim to follow [[zettlekasten]] [[bottom up structure]]. 
 - Since tags are "fuzzy",[^1] we will maintain a [[tag taxonomy]] to continue to understand the significance of a given tag.
-- et
+- [[folder structure]]
 
 
 # principles guiding our note taking

@@ -3,7 +3,7 @@ tags: [idea]
 date-created: <% tp.file.creation_date("YYYY-MM-DD") %>
 aliases:
 ---
-Tags:: 
+Add tags to YAML using [[tag taxonomy]] 
 
 - [ ] Complete?
 

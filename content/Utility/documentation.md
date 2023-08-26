@@ -1,7 +1,23 @@
-# Zettlekasten
-Zettlekasten is a phrase that is getting more and more popular. It describes a form of note-taking that was popularized by Nickolas Luuhman who was a prolific writer of his time. Luuhman attributed all of his amassed publications to his workflow which he termed the "zettlekasten" (german for slipbox). The principles of the zettlekasten were originally designed under Luuhman's system using index cards as notes. The Shared Experience
+---
+date-created: 2023-08-Fr
+tags: [index]
+---
 
-# Concepts and principles
+> [!example]- Note's purpose
+> Index notes can be seen as the "furthest zoomed out" notes of the vault. They represent a map of concepts and ideas or are strictly for utility. Index notes may also contain some meta information about a certain topic but only rudimentary as anything deeper should be captured in a concept or idea note
+> 
+
+# Taxonomy and structure notes
+- We will aim to follow [[zettlekasten]] [[bottom up structure]]. 
+- Since tags are "fuzzy",[^1] we will maintain a [[tag taxonomy]] to continue to understand the significance of a given tag.
+- et
+
+
+# principles guiding our note taking
 - [[note taking must be personal]]
 - [[connecting new ideas to what you already know strengthens your memory of new ideas]]
-- 
+- [[emergent structure is good note taking practice]]
+
+# footnotes
+
+[^1]: Tags don't often provide any valuable structure in that associations between similarly tagged items do not indicate their association and merely group them into unordered lists. 

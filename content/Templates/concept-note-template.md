@@ -3,7 +3,7 @@ tags: [concept]
 date-created: <% tp.file.creation_date("YYYY-MM-DD") %>
 ---
 
-Tags:: [[tag-taxonomy|tag-taxonomy]]
+Tags:: [[tag taxonomy]]
 
 > [!example]- Note steps
 > - Provide a short summary of the concept ensuring that context is provided.

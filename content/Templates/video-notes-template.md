@@ -4,7 +4,8 @@ tags: ["video-note", "youtube"]
 source: <https://www.youtube.com/watch?v=<% tp.system.clipboard() %>>
 author: <% tp.system.prompt("Who made the content?", "Not added") %>
 ---
-Tags:: [Put in some relevant tags and look for old ones before adding new ones. Add new ones to taxonomy.]
+
+Add tags to YAML using [[tag taxonomy]]
 
 # Note Steps
 

@@ -2,7 +2,7 @@
 
 tags: [literature-note, <% tp.system.suggester(["Poetry", "Literary fiction", "Philosophy", "non-fiction book", "web article", "university-reading"], ["literary-poetry", "literary-fiction", "literary-philosophy", "non-fiction-book", "web-article", "university-reading"], true) %>]
 ---
-Tags:: [put some relevant tags look for old ones before adding new ones,  add new ones to taxonomy] 
+Add tags to YAML using [[tag taxonomy]]
 
 - [ ] Competed?
 > [!example]- Note steps

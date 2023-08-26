@@ -10,7 +10,7 @@ tags: [literature-note]
 {% persist "notes" %}
 
 - [ ] Processed from last import?
-Tags:: [[tag-taxonomy]]
+Add tags to YAML using [[tag taxonomy]]
 
 > [!example]- Note steps
 > - This note should be created using the Citations plugin which links with Zotero to pull in its meta and bibliographic information.

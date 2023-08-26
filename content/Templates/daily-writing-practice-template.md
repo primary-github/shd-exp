@@ -4,7 +4,7 @@ tags: [Journal]
 ---
 - [ ] Processed? Delete if unnecessary
 
-# 1. Ideas - Original Thoughts for Projects or Posts
+# 1. Idea scratchpad
 
 
 

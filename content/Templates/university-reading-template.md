@@ -7,7 +7,7 @@ university-week: <% tp.system.prompt("What week was this reading assigned?") %>
 - [ ] Completed?
 - [ ] Linked to reading in attachments folder?
 
-Tags:: [Put in which class this comes from and any relevant topic tags]
+Add tags to YAML using [[tag taxonomy]]
 
 
 # Summary

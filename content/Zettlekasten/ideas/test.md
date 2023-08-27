@@ -9,6 +9,7 @@ Add tags to YAML using [[tag taxonomy]]
 
 # Note
 
+Hey man, testing some things here. Making a few edits and hoping in shows up!
 
 > [!NOTE]- Relevant Notes
 > 

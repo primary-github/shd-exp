@@ -21,8 +21,9 @@ tags: [index]
 - Working with the garage door open
 - An inbox is only effective if its being emptied, ideally more than entries are being added.
 - Regular revisiting of ideas to form new connections with other ideas.
-- 
 
+## Philosophy
+- Privacy centered values
 
 # footnotes
 

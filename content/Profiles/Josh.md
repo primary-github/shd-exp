@@ -1,11 +1,7 @@
-insert profile
-
-# Values
-
 # interests
-
-## 
+- Cognitive sciences;
+- Philosophy;
+- Politics; and
+- Law
 
 # top of mind
-
-- 

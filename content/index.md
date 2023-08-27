@@ -6,7 +6,7 @@ Interesting...
 
 # What's Going on Here? 🎈
 
-This is the shared experience which is a bit of a social experiment in which the collaborators, Sam and Josh, attempt to determine whether the convergence of a bottom up structured knowledge base will cause idea emergence. In that, we will collaboratively and separately undertake academic studies in which we:
+The shared experience is an attempt at a proof of concept contributed by two collaborators, Sam and Josh. It is widely accepted that [[collaborative learning]] can be a facilitator in increasing learning efficiency. We are attempting to provide a demonstration on the benefits (or no doubt, drawbacks) in developing a collaborative learning environment with emphasis on [[zettlekasten]] methodologies and [[Computers can extend cognition]]. 
 
 - rephrase and take notes from literature that interests us, creating [[literature notes should be rephrasing]];
 - decontextualize and distill [[atomic idea]] from our literature notes; and

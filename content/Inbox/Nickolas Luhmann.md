@@ -1,0 +1,1 @@
+We should find out more information on Nicklos Luhmann and his publications on his note taking method. Perhaps as well link to the site that has uploaded his slipbox

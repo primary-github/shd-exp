@@ -20,7 +20,7 @@ import { Mutex } from "async-mutex"
 
 const ORIGIN_NAME = "origin"
 const UPSTREAM_NAME = "upstream"
-const QUARTZ_SOURCE_BRANCH = "v4"
+const QUARTZ_SOURCE_BRANCH = "main"
 const cwd = process.cwd()
 const cacheDir = path.join(cwd, ".quartz-cache")
 const cacheFile = "./.quartz-cache/transpiled-build.mjs"

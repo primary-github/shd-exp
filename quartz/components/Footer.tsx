@@ -14,14 +14,16 @@ export default ((opts?: Options) => {
       <footer>
         <hr />
         <p>
-          The Shared Experience
+          Contributors
         </p>
         <ul>
-          {Object.entries(links).map(([text, link]) => (
-            <li>
-              <a href={link}>{text}</a>
-            </li>
-          ))}
+          <li>
+              Sam
+          </li>
+          <li>
+              Josh
+          </li>
+
         </ul>
       </footer>
     )

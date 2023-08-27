@@ -1,5 +1,6 @@
 ---
-date-created: 2023-08-Fr
+date-created: <% tp.file.creation_date("YYYY-MM-DD") %>
+author: <% tp.system.prompt("Who made the content?", "Not added") %>
 tags: [index]
 ---
 

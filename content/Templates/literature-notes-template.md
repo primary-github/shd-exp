@@ -1,5 +1,5 @@
 ---
-
+author: <% tp.system.prompt("Who made the content?", "Not added") %>
 tags: [literature-note, <% tp.system.suggester(["Poetry", "Literary fiction", "Philosophy", "non-fiction book", "web article", "university-reading"], ["literary-poetry", "literary-fiction", "literary-philosophy", "non-fiction-book", "web-article", "university-reading"], true) %>]
 ---
 Add tags to YAML using [[tag taxonomy]]

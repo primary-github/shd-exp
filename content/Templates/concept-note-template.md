@@ -1,5 +1,6 @@
 ---
 tags: [concept]
+author: <% tp.system.prompt("Who made the content?", "Not added") %>
 date-created: <% tp.file.creation_date("YYYY-MM-DD") %>
 ---
 

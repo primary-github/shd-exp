@@ -1,5 +1,5 @@
-- Areas - for delineated areas of interest by categories or finished proje
-- Dataview reports (not published) - for Dataview query notes
+- Areas - for delineated areas of interest by categories or finished projects.
+ - Dataview reports (not published) - for Dataview query notes
 - Drafts (not published) - unpublished projects folder
 - Inbox - for fleeting notes, unformatted, scratch pad
 - Projects - for grouping notes under a single project 

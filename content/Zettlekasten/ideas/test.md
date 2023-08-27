@@ -1,7 +1,6 @@
 ---
 tags: [idea]
-date-created: <% tp.file.creation_date("YYYY-MM-DD") %>
-author: <% tp.system.prompt("Who made the content?", "Not added") %>
+date-created: 2023-08-27
 aliases:
 ---
 Add tags to YAML using [[tag taxonomy]] 

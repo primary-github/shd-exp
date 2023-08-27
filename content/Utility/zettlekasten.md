@@ -1,14 +1,3 @@
----
-tags: [idea]
-date-created: 2023-08-26
-aliases:
----
-Add tags to YAML using [[tag taxonomy]] 
-
-- [ ] Complete?
-
-# Note
-
 Zettlekasten is the german word for "slipbox". It is a note taking methodology that was popularized by the social scientist [[Nickolas Luhmann]] which consisted of index card notes inside of a filing cabinet.[^1] This system denoted three types of notes:
 - [[Fleeting notes]]
 - [[Literature notes]]

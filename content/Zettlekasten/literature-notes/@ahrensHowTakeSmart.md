@@ -4356,6 +4356,8 @@ J -why it's good to deeply learn multiple disciplines
 > [!quote] 
 > *Helmut D. Sachs puts it like this: “By learning, retaining, and building on the retained basics, we are creating a rich web of associated information. The more we know, the more information (hooks) we have to connect new information to, the easier we can form long-term memories. [...] Learning becomes fun. We have entered a virtuous circle of learning, and it seems as if our long-term memory capacity and speed are actually growing. On the other hand, if we fail to retain what we have learned, for example, by not using effective strategies, it becomes increasingly difficult to learn information that builds on earlier learning. More and more knowledge gaps become apparent. Since we can’t really connect new information to gaps, learning becomes an uphill battle that exhausts us and takes the fun out of learning. It seems as if we have reached the capacity limit of our brain and memory. Welcome to a vicious circle. Certainly, you would much rather be in a virtuous learning circle, so to remember what you have learned, you need to build effective long-term memory structures.” (Sachs 2013, 26) His recommendations for learning read almost like instructions for the slipbox: 1. Pay attention to what you want to remember. 2. Properly encode the information you want to keep. (This includes thinking about suitable cues.) 3. Practice recall. (Ibid., 31)*
 
+^01439c
+
 **Zotero Link**: [click to go to zotero annotation](zotero://open-pdf/library/items/8KGWZ3UJ?page=111&annotation=K2HFBXDZ)
 **Highlight colour**: Yellow
 ### Comments

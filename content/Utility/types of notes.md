@@ -1,0 +1,3 @@
+Currently our vault contains the following types of notes:
+- idea notes - idea notes represent the atomic portion of our notes. Idea notes will be titled through providing it a [[concept handle]] by way of factoring an idea as a proposition such as [[Computers can extend cognition]]. The content of an idea note will contain expansion of its title with links to references and associated ideas or concepts.
+- Concept notes - concept notes represent a contextual grouping of ideas. They can be seen as an outline, syllabus or grouping of notes which contribute to a larger concept such as [[Cognitive science]]. 

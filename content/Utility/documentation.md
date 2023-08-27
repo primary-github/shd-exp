@@ -8,9 +8,9 @@ tags: [index]
 > 
 
 # Taxonomy and structure notes
-- We will aim to follow [[zettlekasten]] [[bottom up structure]]. 
-- Since tags are "fuzzy",[^1] we will maintain a [[tag taxonomy]] to continue to understand the significance of a given tag.
-- [[folder structure]]
+- We will aim to follow an augmented [[zettlekasten]] workflow for our notes.
+- Since tags are "fuzzy",[^1] we will maintain a [[tag taxonomy]] to continue to understand the significance of a given tag. It is through a tagging system that we may also delineate from [[types of notes]]. 
+- We will maintain documentation as to the [[folder structure]] of our vault because folders face the same "fuzzy" association limitations that tags do. 
 
 # principles guiding our note taking
 - [[note taking must be personal]]
@@ -22,8 +22,14 @@ tags: [index]
 - An inbox is only effective if its being emptied, ideally more than entries are being added.
 - Regular revisiting of ideas to form new connections with other ideas.
 
-## Philosophy
-- Privacy centered values
+# Note taking workflow
+
+Our workflow will consist of an emergent [[bottom up structure]] that 
+- rephrase and take notes from literature that interests us, creating [[literature notes should be rephrasing]];
+- decontextualize and distill [[atomic idea]] from our literature notes; and
+- spend time perusing this vault to find potential connections of new ideas to what we already know or has already been added. This will allow ideas to grow and [[form connections between ideas]]
+
+In doing so, we will attempt a [[daily writing practice]] and [[study]] various topics together. These topics will be distilled into their [[atomic idea]].
 
 # footnotes
 

@@ -11,11 +11,11 @@ const config: QuartzConfig = {
     },
     baseUrl: "shared-experience.wiki",
     ignorePatterns: ["private", "Templates", "Dataview reports", "Drafts"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Playfair Display",
+        body: "Quicksand",
         code: "IBM Plex Mono",
       },
       colors: {

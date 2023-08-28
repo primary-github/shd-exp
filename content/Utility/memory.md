@@ -1,0 +1,3 @@
+- [[how are memories made]]
+- [[why do people forget]]
+- [[why is it important to develop memorization skills]]

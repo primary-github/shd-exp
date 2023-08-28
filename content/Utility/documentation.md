@@ -14,14 +14,14 @@ tags: [index]
 
 # principles guiding our note taking
 - [[note taking must be personal]]
-- [[connecting new ideas to what you already know strengthens your memory of new ideas]]
-- [[emergent structure is good note taking practice]]
-- No collectors fallacy and note hoarding, not note taking for the sake of it.
-- Note taking must be used for a purpose
-- Working with the garage door open
-- An inbox is only effective if its being emptied, ideally more than entries are being added.
-- Regular revisiting of ideas to form new connections with other ideas.
+- [[connecting new ideas to what you already know strengthens your memory of new ideas]]. This will be implemented by integrating regular revisiting of ideas to form new connections with other ideas.
 
+- [[emergent structure is good note taking practice]]
+- No [[collectors fallacy]] and note hoarding (i.e not taking notes just for its own sake)
+- To that end, we recognise that [[Note taking must be used for a purpose]]
+- [[working with the garage door open]]
+- [[An inbox is only effective if its being emptied]], ideally more than entries are being added.
+- 
 # Note taking workflow
 
 Our workflow will consist of an emergent [[bottom up structure]] that 

@@ -4,7 +4,7 @@ author: <% tp.system.prompt("Who made the content?", "Not added") %>
 date-created: <% tp.file.creation_date("YYYY-MM-DD") %>
 ---
 
-Tags:: [[tag taxonomy]]
+Put tags from [[tag taxonomy]] in YAML
 
 > [!example]- Note steps
 > - Provide a short summary of the concept ensuring that context is provided.

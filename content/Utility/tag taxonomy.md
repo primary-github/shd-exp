@@ -3,6 +3,7 @@ The limitations of tags as described by crowd funded cognitive scientist, [Andy 
 
 # Tags
 
+
 ## Note type tags
 - Concept - denotes a given note as a [[types of notes#^be0c39|concept note]]
 - Idea - denotes a given note as a [[types of notes#^7a092d|idea note]]
@@ -10,6 +11,9 @@ The limitations of tags as described by crowd funded cognitive scientist, [Andy 
 - literature-notes - denotes a given note as a [[types of notes#^25335c|literature note]]
 
 ## Topic tags
+
+Already created tags should be given preference over the creation of new ones. Tags which become congested with notes should be considered for turning into an index or concept note.
+
 Topic tags are used for extra note discoverability. Topic tags may eventually evolve into concept notes or index notes once a critical mass of notes accumulate under a topic. Topic tags are 
 - productivity - notes which pertain to increasing ones productivity in various disciplines
 	- note-taking - notes which describe methodologies or best practices on note taking

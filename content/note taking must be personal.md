@@ -1,0 +1,3 @@
+Note taking must be personal in that there is taking notes that will not serve the note taker in some way. Notes in this vault are a means to the end of outputting long form content in the form of academic articles or opinion pieces. Notes in this vault while available to the public through our value of [[working with the garage door open]], are note going to make contextual sense to everyone at the time they are made public. 
+
+Notes within this vault which do not contain any references to the claims they make, semantic errors or any content at all should be treated with a grain of salt in that they are likely incomplete. This project intends for notes to be developed over time and by that reason, are not [[transient notes]] despite them moving through transient states.

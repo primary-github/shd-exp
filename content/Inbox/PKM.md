@@ -1,0 +1,3 @@
+PKM stands for Personal Knowledge Management and are a term for an organized system of notes which contains all knowledge one wishes to remember. PKMs typically have features of linking, tagging and folder organization to allow for quick retrieval of one's relevant information. In the information age, the need for PKMs have increased.[^1] PKMs are sometimes also called Second Brains which is a term that was popularized by a prominent PKM enthusiast, Tiago Forte.
+
+[^1]: See Tiago Forte, Building a Second Brain for more information on these systems. 

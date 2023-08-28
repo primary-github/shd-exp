@@ -1,5 +1,5 @@
 ---
-tags: [concept]
+tags: [index]
 author: Josh
 date-created: 2023-08-27
 ---
@@ -21,10 +21,14 @@ Tags:: [[tag taxonomy]]
 
 - [ ] Completed?
 # Summary of concept
-[include a short summary of concept]
+Cognitive science is the inter-disciplinary study of thought, learning and mental organization. This topic of study draws on aspects of:[^1]
+- philosophy;
+- linguistics;
+- computer modelling; and 
+- psychology
 
 # Relevant Ideas
 
-## [this is a link to an idea]
-This is relevant for X reasons and relates to this overarching concept because Y.
+# [[memory]]
 
+[^1]: https://en.wikipedia.org/wiki/Cognitive_science[](https://en.wikipedia.org/wiki/Cognitive_science)

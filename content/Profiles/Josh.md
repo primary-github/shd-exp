@@ -7,3 +7,4 @@
 
 # top of mind
 - [[Cognitive science]]
+- [[Philosophy]]

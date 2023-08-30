@@ -1,7 +1,7 @@
 ---
-tags: [index]
+tags: [concept]
 author: Josh
-date-created: 2023-08-27
+date-created: 2023-08-28
 ---
 
 Put tags from [[tag taxonomy]] in YAML
@@ -18,19 +18,13 @@ Put tags from [[tag taxonomy]] in YAML
 > **Does this concept contradict another concept?**
 > **Can this concept be linked to an index which outlines a variety of concepts?**
 
-
 - [ ] Completed?
-# Summary of concept
-Cognitive science is the inter-disciplinary study of thought, learning and mental organization. This topic of study draws on aspects of:[^1]
-- philosophy;
-- linguistics;
-- computer modelling; and 
-- psychology
+
+# Summary of Concept
 
 # Relevant Ideas
 
-# [[memory]]
+## [this Is a Link to an idea]
 
-# [[Habits]]
+This is relevant for X reasons and relates to this overarching concept because Y.
 
-[^1]: https://en.wikipedia.org/wiki/Cognitive_science[](https://en.wikipedia.org/wiki/Cognitive_science)

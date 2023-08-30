@@ -8,3 +8,5 @@
 # top of mind
 - [[Cognitive science]]
 - [[Philosophy]]
+- [[Habits]]
+	- [[Atomic habits - James Clear]]

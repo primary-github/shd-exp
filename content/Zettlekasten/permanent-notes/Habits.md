@@ -1,7 +1,7 @@
 ---
 tags: [concept]
 author: Josh
-date-created: 2023-08-28
+date-created: 2023-08-30
 ---
 
 Put tags from [[tag taxonomy]] in YAML
@@ -21,10 +21,9 @@ Put tags from [[tag taxonomy]] in YAML
 
 - [ ] Completed?
 # Summary of concept
-
+Habits are the repeated actions one does on a regular basis. Since habits make up our identity and ultimately, the sum of our actions will dictate whether we live in an optimal environment, it is important to study their formation and methods of optimization. 
 
 # Relevant Ideas
-
-## [this is a link to an idea]
-This is relevant for X reasons and relates to this overarching concept because Y.
-
+-  [[we work better on systems rather than goals]]
+	- [[aggregate of marginal gains]]
+- 

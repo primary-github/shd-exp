@@ -1,0 +1,1 @@
+This is a formatting idea but perhaps we should start including question sections at the end of well developed notes to force the readers to engage with text they've just written by providing a form of feedback

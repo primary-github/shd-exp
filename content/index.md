@@ -18,7 +18,10 @@ We intend that this project will expand to have many collaborators but in its ea
 
 # Let's Launch into it 😎
 
-Have a look at our [[documentation]] to see how the principles of how this [[digital garden]] operates. Alternatively, look at our [[tag taxonomy]] to get an understanding of our tagging system to browse topics that way. Otherwise, use the graph or search functions integrated in this website.
+- Have a look at our [[documentation]] to see how the principles of how this [[digital garden]] operates. 
+- Alternatively, look at our [[tag taxonomy]] to get an understanding of our tagging system to browse topics that way. Otherwise, use the graph or search functions integrated in this website.
+- Want to see what we're working on now? See [[#Contributor Profiles]] page's top of mind notes.
+- Want to see raw scratchpad notes? check out [[Inbox/index.md]]
 
 ## Contributor Profiles
 

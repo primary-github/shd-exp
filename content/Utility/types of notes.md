@@ -6,4 +6,5 @@ Currently our vault contains the following types of notes:
 	- **Notable exceptions:**
 		- We do not take notes certain articles which are a mere "see more" reference (i.e ones we do not consider worth having a dedicated literature note). This is because we should not fall to the collector's fallacy.
 - quick capture - these represent notes which reside in the Inbox folder of the vault. These are notes which are [[Fleeting notes]] that are captured without the time to properly format. These notes can be considered as a scratch pad.
+- musings - musings are notes which contain personal musings or reflections on a certain topic or idea. They often will not contain any references or verification as to its factuality. These notes can be considered a form of creative expression. ^765019
 

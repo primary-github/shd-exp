@@ -1,0 +1,1 @@
+Start a section for practice in making [[haikus]]? Could be implemented in the [[daily writing practice]].

@@ -3,7 +3,7 @@ title: Welcome
 ---
 # What's Going on Here? 🎈
 
-The shared experience a proof of concept contributed by two collaborators, Sam and Josh. 
+The shared experience is a proof of concept contributed by two collaborators, Sam and Josh. 
 There have been countless positive studies to the effect that [[collaborative learning]] can be a facilitator in increasing learning effectiveness. We are attempting to provide a demonstration on the benefits (or no doubt, drawbacks) in developing a collaborative learning environment with emphasis on [[zettlekasten]] methodologies and prove, undeniably, that [[Computers can extend cognition]] and [[collaborative learning]] can be exploited using these emergent progressive note taking systems.  
 
 ## Why publish this site

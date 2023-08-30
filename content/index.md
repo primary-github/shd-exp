@@ -9,9 +9,10 @@ There have been countless positive studies to the effect that [[collaborative le
 ## Why publish this site
 
 We subscribe to the principle of [[working with the garage door open]]. We intend that this website and a community will flourish from continuous improvements over time. This also provides a creative outlet to its collaborators. The ideal outcome of this vault will be that its collaborators develop:
-- better tools for thought;
-- retrievable relevant knowledge; and
-- academic and creative writing skills.
+
+- Better tools for thought
+- Retrievable relevant knowledge
+- Academic and creative writing skills
 
 We intend that this project will expand to have many collaborators but in its early proof-of-concept days, we have restricted its collaboration to a small group.
 

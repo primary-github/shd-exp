@@ -13,8 +13,8 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": false
+                "staged": false,
+                "file": "content/index.md"
               }
             }
           }
@@ -151,8 +151,24 @@
   },
   "active": "e2b69176d8fa64f8",
   "lastOpenFiles": [
-    "content/Zettlekasten/system-to-govern-knowledge.canvas",
     "content/index.md",
+    "content/Zettlekasten/literature-notes/@ahrensHowTakeSmart.md",
+    "content/Zettlekasten/ideas/Computers can extend cognition.md",
+    "content/Utility/working with the garage door open.md",
+    "content/Utility/types of notes.md",
+    "content/Utility/note taking must be personal.md",
+    "content/Utility/memory.md",
+    "content/Utility/literature notes should be rephrasing.md",
+    "content/Utility/form connections between ideas.md",
+    "content/Utility/digital garden.md",
+    "content/Utility/connecting new ideas to what you already know strengthens your memory of new ideas.md",
+    "content/Utility/atomic idea.md",
+    "content/Utility/Permanent notes, zettlekasten.md",
+    "content/Utility/PKM.md",
+    "content/Utility/Nicklas Luhmann.md",
+    "content/Utility/Literature notes, zettlekasten.md",
+    "content/Utility/Fleeting notes, zettlekasten.md",
+    "content/Zettlekasten/system-to-govern-knowledge.canvas",
     "content/Zettlekasten/permanent-notes/Test notes.md",
     "content/Zettlekasten/ideas/bottom up structure.md",
     "content/Zettlekasten/ideas/emergent structure is good note taking practice.md",

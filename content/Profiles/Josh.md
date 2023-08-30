@@ -9,4 +9,4 @@
 - [[Cognitive science]]
 - [[Philosophy]]
 - [[Habits]]
-	- [[Atomic habits - James Clear]]
+	- [[@clearAtomicHabitsEasy2018]]

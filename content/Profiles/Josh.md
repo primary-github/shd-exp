@@ -8,5 +8,6 @@
 # top of mind
 - [[Cognitive science]]
 - [[Philosophy]]
+	- [[@compiledandwithanintroductionbyyoelhoffmannJapaneseDeathPoems2018]]
 - [[Habits]]
 	- [[@clearAtomicHabitsEasy2018]]

@@ -7,7 +7,7 @@ cite: clearAtomicHabitsEasy2018
 zot-folder: Books
 tags: [literature-note, productivity]
 ---
-
+#jjm-currently-reading
 - [ ] Processed?
 
 
@@ -42,4 +42,25 @@ tags: [literature-note, productivity]
 - for these reasons, James Clear proposes asking yourself "who is the type of person who would achieve these goals?" The answer being a person whom habits can be drawn from and actions can be referenced, page 39. For example, "what would a healthy person do". It reinforces you to *become* this type of person.
 - James Clear emphasises that this step in achieving a goal of any kind is the first and most crucial step that must be taken. Without reference to the necessary identity that needs to be adopted to bring about the desired change, no meaningful long-term change can occur, page 41.
 # build better habits
-- 
+- there are 4 steps to producing a habit. Cue, craving, response and reward. Each quite self explanatory, a cue causes a pattern recognisition, we start to have a craving based individually and our brain attempts the most frictionless, we get a reward associated with that cue, pages 49-51
+- all behaviour is driven by the desire to solve a problem, page 51
+- all 4 stages of a habit can be moved through in a fraction of a second, page 51
+
+## 4 laws of behavioural change
+Page 54
+Following the sequence of a habit with cue, craving, response and reward, to make a good habit:
+- make it obvious.
+- make it attractive.
+- make it easy.
+- make it satisfying
+And to break a bad one:
+- make it invisible
+- make it unattractive
+- make it difficult
+- make it unsatisfying
+
+
+Every goal is doomed to fail if it goes against the grain of human nature, page 55.
+
+# cue
+- be conscious of cues to habits

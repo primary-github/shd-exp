@@ -16,6 +16,11 @@ The limitations of tags as described by crowd funded cognitive scientist, [Andy 
 Already created tags should be given preference over the creation of new ones. Tags which become congested with notes should be considered for turning into an index or concept note.
 
 Topic tags are used for extra note discoverability. Topic tags may eventually evolve into concept notes or index notes once a critical mass of notes accumulate under a topic. Topic tags are 
+- poetry - relating to notes about poetry. 
 - productivity - notes which pertain to increasing ones productivity in various disciplines
 	- note-taking - notes which describe methodologies or best practices on note taking
 - philosophy - notes relating to philosophy analysis or best practice.
+
+# Status/project tags
+
+- #jjm-currently-reading - tags for notes of Josh's current reading list (makes it easier to find the notes).

@@ -12,15 +12,6 @@ tags:
 
 - [ ] Processed?
 
-> [!example]- Note steps
-> - This note should be created using the Citations plugin which links with Zotero to pull in its meta and bibliographic information.
-> - If you're making a literature note in obsidian, it's because you've already annotated and read it or you're just about to.
-> - Import the annotations you make from Zotero into this literature note.
-> - Ensure that all imported annotations have fixed typos and do some minor formatting and sectioning out if necessary.
-> - Once in the literature note, use the annotations to create [[tag-taxonomy#^ff04bd|an idea notes]]. Link back in the idea note to this literature note. 
-> - Check [[tag-taxonomy|tag-taxonomy]] to see if this could have any topic tags. Give preference to existing tags over creation of new ones.
-> - Once complete, click the checkbox above.
-
 # Notes from hard-copy of book
 
 # tanka
@@ -46,3 +37,6 @@ Boshu, a famous haiku poet, suggests the author should become unconscious to the
 Japanese have a cultural custom of providing with their last will, a *Jitsei* which is a farewell poem to life, page 27.
 
 "Reality is far more complex than any logic and at the same time, far more simple", page 29
+
+Had I not known / that I was dead / already /I would have mourned / my loss of life 
+Page 52

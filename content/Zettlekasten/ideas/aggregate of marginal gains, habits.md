@@ -1,15 +1,16 @@
 ---
 tags:
   - idea
-date-created: 
-author: 
+  - productivity/habits
+date-created: 2023-09-12
+author: Josh
 aliases: []
 complete?:
 ---
-Add tags to YAML using [[tag taxonomy]] 
-
 
 # Note
+
+Even the smallest of improvements over time will eventually reach a threshold that pushes it over the edge. These small improvements will show little to no progress until this threshold is reached. Consider the boiling point of water, until 100 degrees Celsius is reached, there is no indication that the water will boil (if one had no prior understanding of boiling water). It is only once 100 degrees is reached that the water reaches the threshold of boiling. The same may be for habits, often the smallest of habits can make the grandest of differences to one's life.[^1]
 
 
 > [!NOTE]- Relevant Notes
@@ -30,3 +31,5 @@ Add tags to YAML using [[tag taxonomy]]
 
 
 # Footnotes
+
+[^1]: [[@clearAtomicHabitsEasy2018#^698079]], [[@clearAtomicHabitsEasy2018#^663aae]]

@@ -1,16 +1,16 @@
 ---
 tags:
   - idea
-date-created: 
-author: 
+  - productivity/habits
+date-created: 2023-09-12
+author: Josh
 aliases: []
-complete?:
 ---
-Add tags to YAML using [[tag taxonomy]] 
 
 
 # Note
 
+It is better that you work on maintaining and creating good systems which facilitate progression towards a given goal. Often the reason that goals are never realized is that the appropriate systems that are needed for an individual to do are never put in place by them.[^1]
 
 > [!NOTE]- Relevant Notes
 > 
@@ -30,3 +30,5 @@ Add tags to YAML using [[tag taxonomy]]
 
 
 # Footnotes
+
+[^1]: [[@clearAtomicHabitsEasy2018#systems not goals]]

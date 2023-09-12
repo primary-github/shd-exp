@@ -9,6 +9,7 @@ The limitations of tags as described by crowd funded cognitive scientist, [Andy 
 - Idea - denotes a given note as a [[types of notes#^7a092d|idea note]]
 - index - denotes a given note as an [[types of notes#^8c9393|index note]]
 - literature-notes - denotes a given note as a [[types of notes#^25335c|literature note]]
+- question-note - denotes a given note as a [[types of notes#^103565|question note]]
 - musings - denotes a note as a [[types of notes#^765019|musing note]]
 
 ## Topic tags
@@ -19,6 +20,7 @@ Topic tags are used for extra note discoverability. Topic tags may eventually ev
 - poetry - relating to notes about poetry. 
 - productivity - notes which pertain to increasing ones productivity in various disciplines
 	- note-taking - notes which describe methodologies or best practices on note taking
+	- habits - notes on the formation of habits, the psychology of the formation and how to break bad habits.
 - philosophy - notes relating to philosophy analysis or best practice.
 
 # Status/project tags

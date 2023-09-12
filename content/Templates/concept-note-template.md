@@ -1,7 +1,9 @@
 ---
-tags: [concept]
-author: <% tp.system.prompt("Who made the content?", "Not added") %>
-date-created: <% tp.file.creation_date("YYYY-MM-DD") %>
+tags:
+  - concept
+author: 
+date-created: 
+complete?:
 ---
 
 Put tags from [[tag taxonomy]] in YAML
@@ -19,7 +21,6 @@ Put tags from [[tag taxonomy]] in YAML
 > **Can this concept be linked to an index which outlines a variety of concepts?**
 
 
-- [ ] Completed?
 # Summary of concept
 [include a short summary of concept]
 

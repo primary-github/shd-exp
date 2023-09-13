@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "07fa936e56aae16b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Utility/tag taxonomy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -136,13 +148,23 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "6fde533ddb749afc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 216.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,28 +178,34 @@
   },
   "active": "e2b69176d8fa64f8",
   "lastOpenFiles": [
-    "content/index.md",
-    "content/Zettlekasten/literature-notes/@ahrensHowTakeSmart.md",
-    "content/Zettlekasten/ideas/Computers can extend cognition.md",
-    "content/Utility/working with the garage door open.md",
-    "content/Utility/types of notes.md",
-    "content/Utility/note taking must be personal.md",
-    "content/Utility/memory.md",
-    "content/Utility/literature notes should be rephrasing.md",
-    "content/Utility/form connections between ideas.md",
-    "content/Utility/digital garden.md",
-    "content/Utility/connecting new ideas to what you already know strengthens your memory of new ideas.md",
-    "content/Utility/atomic idea.md",
-    "content/Utility/Permanent notes, zettlekasten.md",
-    "content/Utility/PKM.md",
-    "content/Utility/Nicklas Luhmann.md",
-    "content/Utility/Literature notes, zettlekasten.md",
-    "content/Utility/Fleeting notes, zettlekasten.md",
-    "content/Zettlekasten/system-to-govern-knowledge.canvas",
-    "content/Zettlekasten/permanent-notes/Test notes.md",
-    "content/Zettlekasten/ideas/bottom up structure.md",
+    "content/Zettlekasten/permanent-notes/habits are best changed through change in identity.md",
+    "content/Zettlekasten/ideas/we work better on systems rather than goals.md",
+    "content/Zettlekasten/ideas/take pride in processes or outcomes to change your identity.md",
+    "content/Zettlekasten/ideas/identity is formed by self-evident repeated actions.md",
+    "content/Zettlekasten/ideas/good habits make time your ally, bad habits make time your enemy.md",
+    "content/Zettlekasten/ideas/ask yourself who is the type of person who'd achieve my desired goals, habits.md",
+    "content/Zettlekasten/ideas/aggregate of marginal gains, habits.md",
+    "content/Zettlekasten/ideas/Habits cause a compound interest of change.md",
+    "content/Zettlekasten/ideas/4 laws of behavioural change.md",
+    "content/Projects/Haikus/Corporate.md",
+    "content/Projects/Haikus",
+    "content/Projects",
+    "content/Inbox/Research limb theory and drug addiction.md",
+    "content/Inbox/Lao Tzu - Tao Te Ching.md",
     "content/Zettlekasten/ideas/emergent structure is good note taking practice.md",
+    "our perceived reality is a representation of sense data.md",
     "content/Zettlekasten/ideas/test.md",
-    "content/note taking must be personal.md"
+    "content/Zettlekasten/ideas/Computers can extend cognition.md",
+    "content/Zettlekasten/ideas/bottom up structure.md",
+    "content/Zettlekasten/literature-notes/@compiledandwithanintroductionbyyoelhoffmannJapaneseDeathPoems2018.md",
+    "content/Inbox/Walt Whitman - Leaves of Grass.md",
+    "content/Inbox/Mortimer J Adler - How to Read a Book.md",
+    "idea.md",
+    "content/index.md",
+    "content/Inbox/upcoming feature list.md",
+    "content/Templates/concept-note-template.md",
+    "content/Templates/video-notes-template.md",
+    "content/Templates/literature-notes-template.md",
+    "content/Zettlekasten/system-to-govern-knowledge.canvas"
   ]
 }

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md",
+                "file": "content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md",
+                "file": "content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md"
+                "file": "content/index.md"
               }
             }
           },
@@ -180,8 +180,8 @@
   },
   "active": "f5185909e01206fe",
   "lastOpenFiles": [
-    "content/Profiles/Sam.md",
     "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md",
+    "content/Profiles/Sam.md",
     "content/Profiles/Josh.md",
     "content/Inbox/Walt Whitman - Leaves of Grass.md",
     "content/Inbox/Mortimer J Adler - How to Read a Book.md",

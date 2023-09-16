@@ -27,4 +27,3 @@ We intend that this project will expand to have many collaborators but in its ea
 
 - [[Josh]]
 - [[Sam]]
-- [[Quinn]]

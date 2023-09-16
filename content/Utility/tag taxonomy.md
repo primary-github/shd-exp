@@ -11,6 +11,7 @@ The limitations of tags as described by crowd funded cognitive scientist, [Andy 
 - literature-notes - denotes a given note as a [[types of notes#^25335c|literature note]]
 - question-note - denotes a given note as a [[types of notes#^103565|question note]]
 - musings - denotes a note as a [[types of notes#^765019|musing note]]
+- make a change
 
 ## Topic tags
 

@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Profiles/Sam.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "07fa936e56aae16b",
+            "id": "f5185909e01206fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Utility/tag taxonomy.md",
+                "file": "content/Zettlekasten/ideas/emergent-properties.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Zettlekasten/ideas/emergent-properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Zettlekasten/ideas/emergent-properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md"
+                "file": "content/Zettlekasten/ideas/emergent-properties.md"
               }
             }
           },
@@ -173,11 +174,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "e2b69176d8fa64f8",
+  "active": "3a9cc1926e4e78e8",
   "lastOpenFiles": [
+    "content/Profiles/Sam.md",
+    "content/Zettlekasten/ideas/emergent-properties.md",
+    "content/Profiles/Josh.md",
+    "content/Inbox/Walt Whitman - Leaves of Grass.md",
+    "content/Inbox/Mortimer J Adler - How to Read a Book.md",
+    "content/Inbox/Lao Tzu - Tao Te Ching.md",
+    "content/Inbox/haikus.md",
+    "content/Inbox/Cognitive science.md",
+    "content/Inbox/21 principles of Dokkodo.md",
+    "idea.md",
+    "content/Inbox/upcoming feature list.md",
+    "content/Utility/tag taxonomy.md",
+    "content/index.md",
     "content/Zettlekasten/permanent-notes/habits are best changed through change in identity.md",
     "content/Zettlekasten/ideas/we work better on systems rather than goals.md",
     "content/Zettlekasten/ideas/take pride in processes or outcomes to change your identity.md",
@@ -191,21 +206,8 @@
     "content/Projects/Haikus",
     "content/Projects",
     "content/Inbox/Research limb theory and drug addiction.md",
-    "content/Inbox/Lao Tzu - Tao Te Ching.md",
     "content/Zettlekasten/ideas/emergent structure is good note taking practice.md",
     "our perceived reality is a representation of sense data.md",
-    "content/Zettlekasten/ideas/test.md",
-    "content/Zettlekasten/ideas/Computers can extend cognition.md",
-    "content/Zettlekasten/ideas/bottom up structure.md",
-    "content/Zettlekasten/literature-notes/@compiledandwithanintroductionbyyoelhoffmannJapaneseDeathPoems2018.md",
-    "content/Inbox/Walt Whitman - Leaves of Grass.md",
-    "content/Inbox/Mortimer J Adler - How to Read a Book.md",
-    "idea.md",
-    "content/index.md",
-    "content/Inbox/upcoming feature list.md",
-    "content/Templates/concept-note-template.md",
-    "content/Templates/video-notes-template.md",
-    "content/Templates/literature-notes-template.md",
     "content/Zettlekasten/system-to-govern-knowledge.canvas"
   ]
 }

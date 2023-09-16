@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md"
+                "file": "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md"
               }
             }
           },
@@ -180,8 +180,10 @@
   },
   "active": "f5185909e01206fe",
   "lastOpenFiles": [
-    "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md",
     "content/Profiles/Sam.md",
+    "content/index.md",
+    "content/Utility/tag taxonomy.md",
+    "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md",
     "content/Profiles/Josh.md",
     "content/Inbox/Walt Whitman - Leaves of Grass.md",
     "content/Inbox/Mortimer J Adler - How to Read a Book.md",
@@ -191,8 +193,6 @@
     "content/Inbox/21 principles of Dokkodo.md",
     "idea.md",
     "content/Inbox/upcoming feature list.md",
-    "content/Utility/tag taxonomy.md",
-    "content/index.md",
     "content/Zettlekasten/permanent-notes/habits are best changed through change in identity.md",
     "content/Zettlekasten/ideas/we work better on systems rather than goals.md",
     "content/Zettlekasten/ideas/take pride in processes or outcomes to change your identity.md",

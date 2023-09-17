@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "570a0316b13d0db7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,11 +190,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f5185909e01206fe",
+  "active": "570a0316b13d0db7",
   "lastOpenFiles": [
+    "emergent properties can be explained by the interaction of a  complex systems components.md",
+    "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md",
+    "content/Zettlekasten/ideas/identity is formed by self-evident repeated actions.md",
+    "content/Zettlekasten/ideas/bottom up structure.md",
+    "content/Zettlekasten/ideas/Computers can extend cognition.md",
+    "content/Zettlekasten/ideas/emergent structure is good note taking practice.md",
     "content/Profiles/Sam.md",
     "content/index.md",
-    "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md",
     "content/Utility/tag taxonomy.md",
     "content/Profiles/Josh.md",
     "content/Inbox/Walt Whitman - Leaves of Grass.md",
@@ -196,18 +213,13 @@
     "content/Zettlekasten/permanent-notes/habits are best changed through change in identity.md",
     "content/Zettlekasten/ideas/we work better on systems rather than goals.md",
     "content/Zettlekasten/ideas/take pride in processes or outcomes to change your identity.md",
-    "content/Zettlekasten/ideas/identity is formed by self-evident repeated actions.md",
     "content/Zettlekasten/ideas/good habits make time your ally, bad habits make time your enemy.md",
     "content/Zettlekasten/ideas/ask yourself who is the type of person who'd achieve my desired goals, habits.md",
     "content/Zettlekasten/ideas/aggregate of marginal gains, habits.md",
     "content/Zettlekasten/ideas/Habits cause a compound interest of change.md",
     "content/Zettlekasten/ideas/4 laws of behavioural change.md",
-    "content/Projects/Haikus/Corporate.md",
     "content/Projects/Haikus",
     "content/Projects",
-    "content/Inbox/Research limb theory and drug addiction.md",
-    "content/Zettlekasten/ideas/emergent structure is good note taking practice.md",
-    "our perceived reality is a representation of sense data.md",
     "content/Zettlekasten/system-to-govern-knowledge.canvas"
   ]
 }

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md",
+                "file": "content/Profiles/Sam.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md",
+                "file": "content/Profiles/Sam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md",
+                "file": "content/Profiles/Sam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md"
+                "file": "content/Profiles/Sam.md"
               }
             }
           },
@@ -192,14 +192,14 @@
   },
   "active": "570a0316b13d0db7",
   "lastOpenFiles": [
-    "emergent properties can be explained by the interaction of a  complex systems components.md",
+    "content/index.md",
     "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md",
+    "emergent properties can be explained by the interaction of a  complex systems components.md",
     "content/Zettlekasten/ideas/identity is formed by self-evident repeated actions.md",
     "content/Zettlekasten/ideas/bottom up structure.md",
     "content/Zettlekasten/ideas/Computers can extend cognition.md",
     "content/Zettlekasten/ideas/emergent structure is good note taking practice.md",
     "content/Profiles/Sam.md",
-    "content/index.md",
     "content/Utility/tag taxonomy.md",
     "content/Profiles/Josh.md",
     "content/Inbox/Walt Whitman - Leaves of Grass.md",

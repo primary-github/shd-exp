@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md",
+                "file": "content/Profiles/Sam.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md",
+                "file": "content/Profiles/Sam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md",
+                "file": "content/Profiles/Sam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md"
+                "file": "content/Profiles/Sam.md"
               }
             }
           },
@@ -167,8 +167,14 @@
   },
   "active": "e2b69176d8fa64f8",
   "lastOpenFiles": [
-    "content/Profiles/Sam.md",
+    "system-interactions.png",
+    "content/Zettlekasten/permanent-notes/habits are best changed through change in identity.md",
+    "content/Zettlekasten/permanent-notes/Stoicism.md",
+    "content/Zettlekasten/permanent-notes/Test notes.md",
+    "content/Zettlekasten/literature-notes/@clearAtomicHabitsEasy2018.md",
+    "content/Zettlekasten/ideas/we work better on systems rather than goals.md",
     "content/Zettlekasten/ideas/the whole is more than the sum of its parts.md",
+    "content/Profiles/Sam.md",
     "content/index.md",
     "emergent properties can be explained by the interaction of a  complex systems components.md",
     "content/Zettlekasten/ideas/identity is formed by self-evident repeated actions.md",
@@ -185,14 +191,8 @@
     "content/Inbox/21 principles of Dokkodo.md",
     "idea.md",
     "content/Inbox/upcoming feature list.md",
-    "content/Zettlekasten/permanent-notes/habits are best changed through change in identity.md",
-    "content/Zettlekasten/ideas/we work better on systems rather than goals.md",
     "content/Zettlekasten/ideas/take pride in processes or outcomes to change your identity.md",
     "content/Zettlekasten/ideas/good habits make time your ally, bad habits make time your enemy.md",
-    "content/Zettlekasten/ideas/ask yourself who is the type of person who'd achieve my desired goals, habits.md",
-    "content/Zettlekasten/ideas/aggregate of marginal gains, habits.md",
-    "content/Zettlekasten/ideas/Habits cause a compound interest of change.md",
-    "content/Zettlekasten/ideas/4 laws of behavioural change.md",
     "content/Projects/Haikus",
     "content/Projects",
     "content/Zettlekasten/system-to-govern-knowledge.canvas"

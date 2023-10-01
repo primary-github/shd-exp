@@ -16,6 +16,11 @@ The above issue is inherent when you have a system of sufficient complexity. Mul
 - What emergent behaviour are we seeking to understand?
 
 
+## A Test of Imagery  
+
+![[system-interactions.png]]
+
+
 
 
 

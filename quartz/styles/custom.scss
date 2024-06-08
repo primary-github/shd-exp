@@ -1,3 +1,28 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+p {
+  font-size: 1.1rem;
+}
+div.page-header h1,
+p.content-meta {
+  text-align: center;
+}
+// setting up fonts
+@font-face {
+  font-family: drop;
+  src: url("static/CamelotCaps.ttf");
+}
+// Dropcaps
+div.center article h1:nth-of-type(1) + p::first-letter {
+  float: left;
+  line-height: 85%;
+  width: 0.2em;
+  font-family: "drop";
+  font-size: 450%;
+}
+
+div.page-header {
+  display: flex;
+  justify-content: center;
+}

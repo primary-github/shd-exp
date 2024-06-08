@@ -1,0 +1,3 @@
+See if any research has been conducted on any connection the brains ability to form new neural pathways to the addition or extension or a limb as seen with monkeys with reachers and people with phones, and the formation of drug addiction. 
+
+**hypothesis:** people who more readily form neural pathways to the addition of external tools more readily form similar pathways in connection with drugs as a tool to achieve certain outcomes.

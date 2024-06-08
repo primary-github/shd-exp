@@ -1,0 +1,1 @@
+Working with the garage door open is a saying that describes projects which "work with the garage door open" in that, the project is open to public scrutiny and accountability. The Shared Experience project seeks to employ this principle to motivate its contributors to continue to develop the project and to allow the public to witness the development of this project over time.

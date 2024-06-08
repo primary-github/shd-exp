@@ -1,13 +1,15 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// fix font size
 p {
   font-size: 1.1rem;
 }
+
 div.page-header h1,
 p.content-meta {
   text-align: center;
 }
+
 // setting up fonts
 @font-face {
   font-family: drop;
@@ -22,7 +24,13 @@ div.center article h1:nth-of-type(1) + p::first-letter {
   font-size: 450%;
 }
 
-div.page-header {
-  display: flex;
-  justify-content: center;
+div.search {
+  display: inline;
+  #search-icon p {
+    text-align: center;
+  }
+}
+
+div.center article {
+  text-align: justify;
 }

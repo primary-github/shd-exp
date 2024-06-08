@@ -1,0 +1,1 @@
+Figure out a methodology to identify ideas which don't have evidence attached to them and a dataview query for orphan notes. This will indicate to me which notes should be discarded.

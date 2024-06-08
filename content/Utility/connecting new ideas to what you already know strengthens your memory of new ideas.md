@@ -1,0 +1,5 @@
+A key truism in our current understanding of [[memory encoding]] is that the process works most effectively when abstract ideas can be linked to nodes of information pertaining to what you already know.[^1] This allows for better retrieval of information which is what transforms raw information into knowledge. The Shared Experience is an attempt at digitally making a seamless workflow for this process. We are distilling information into their core idea and then constantly coming back and adding new connections between other nodes in the information network.[^2]
+
+# Footnotes
+[^1]: See well fleshed out arguments by: Peter Brown, Making It Stick.
+[^2]: This integrates [[spaced repetition]] into the system as well by integrating naturally occurring revisits to notes as we travel through a chain of thought in the [[zettlekasten]].

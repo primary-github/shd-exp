@@ -1,0 +1,11 @@
+Currently our vault contains the following types of notes:
+- idea notes - idea notes represent the atomic portion of our notes. For this reason, idea notes are [[atomic idea]]. Idea notes will be titled through providing it a [[concept handle]] by way of factoring an idea as a proposition such as [[Computers can extend cognition]]. The content of an idea note will contain expansion of its title with links to references and associated ideas or concepts. ^7a092d
+- Concept notes - concept notes represent a contextual grouping of ideas. They can be seen as an outline, syllabus or grouping of notes which contribute to a larger concept such as, for example, [[Cognitive science]]. These notes are also comparable to MoCs (Maps of Content), a phrase termed by Nick Milo in his [Link Your Thinking](https://www.linkingyourthinking.com/)note taking methodology. ^be0c39
+- Index notes - index notes are jumping in points to associated concept notes and provide the highest level of entry point to this information network. ^8c9393
+- literature-notes - these represent notes taken from various types of literature. This will usually be in the form of extracted annotations and highlights. Annotations and further rephrasing of an idea will occur after literature notes are imported.  ^25335c
+	- **Notable exceptions:**
+		- We do not take notes certain articles which are a mere "see more" reference (i.e ones we do not consider worth having a dedicated literature note). This is because we should not fall to the collector's fallacy.
+- quick capture - these represent notes which reside in the Inbox folder of the vault. These are notes which are [[Fleeting notes]] that are captured without the time to properly format. These notes can be considered as a scratch pad.
+- musings - musings are notes which contain personal musings or reflections on a certain topic or idea. They often will not contain any references or verification as to its factuality. These notes can be considered a form of creative expression. ^765019
+- Question notes - question notes are ones which may transform into concept or idea notes as the question becomes answered. Once the transition is complete, the question note's name will be changed to a proposition instead. ^103565
+

@@ -483,16 +483,11 @@ video {
 
 ul.overflow,
 ol.overflow {
-  max-height: 400;
-  overflow-y: auto;
+  overflow-y: visible;
 
   // clearfix
   content: "";
   clear: both;
-
-  & > li:last-of-type {
-    margin-bottom: 30px;
-  }
 
   &:after {
     pointer-events: none;

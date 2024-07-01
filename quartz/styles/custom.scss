@@ -3,12 +3,14 @@
 // fix font size
 p {
   font-size: 1.1rem;
+  line-height: 2rem;
 }
 div.page-header h1 {
   font-family: title-font;
   font-size: 2rem;
 }
 
+//Changing title font
 div.page-header h1,
 p.content-meta {
   text-align: center;
@@ -22,6 +24,11 @@ p.content-meta {
   font-family: drop;
   src: url("static/CamelotCaps.ttf");
 }
+@font-face {
+  font-family: title-font;
+  src: url("static/MagilioRegular-Yzv2O.ttf");
+}
+
 // Dropcaps
 div.center article h1:nth-of-type(1) + p::first-letter {
   float: left;
@@ -31,6 +38,7 @@ div.center article h1:nth-of-type(1) + p::first-letter {
   font-size: 450%;
 }
 
+//Centering search
 div.search {
   display: inline;
   #search-icon p {
@@ -38,11 +46,59 @@ div.search {
   }
 }
 
+//Justifing articles
 div.center article {
   text-align: justify;
 }
 
-@font-face {
-  font-family: title-font;
-  src: url("static/MagilioRegular-Yzv2O.ttf");
+//styling darkmode
+div.darkmode {
+  display: flex;
+  justify-content: flex-end;
+  max-width: 10px;
+}
+
+//styling graph
+div.graph h3 {
+  text-align: center;
+}
+
+div.backlinks h3 {
+  text-align: center;
+}
+div.backlinks li {
+  text-align: center;
+  overflow: none;
+  border: solid 2px var(--dark);
+  align-self: center;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 5px;
+  width: 200px;
+}
+div.backlinks ul {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+}
+div.backlinks ul.overflow {
+  overflow: visible;
+}
+:root[saved-theme="light"] div.backlinks li {
+  background-color: var(--highlight);
+}
+:root[saved-theme="dark"] div.backlinks li {
+  background-color: var(--highlight);
+  color: #48cae4;
+}
+@media (max-width: 1510px) {
+  .sidebar.right div.backlinks {
+    flex-basis: 100% !important;
+  }
+  .sidebar.right {
+    align-items: stretch !important;
+  }
 }
